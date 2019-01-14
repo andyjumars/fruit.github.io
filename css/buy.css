@@ -1,0 +1,46 @@
+/**.content {
+  width: 350px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;  
+
+}**/
+
+
+
+.list {
+    margin: 0 auto;
+  padding: 50px 100px;
+  text-align: center;
+  list-style: none;
+}
+.list li {
+  border-bottom:1px solid gray;
+  padding:10px 0;
+}
+
+
+.addList .text{
+
+  border: 2px solid rgb(73,41,10);
+
+
+
+}
+
+.addList .btn{
+  
+ 
+  cursor: pointer;
+  border: 2px solid
+    
+
+}
+
+.content-text {
+  
+}
+
+
+
+
